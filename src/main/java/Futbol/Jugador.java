@@ -1,4 +1,4 @@
-package futbol;
+package Futbol;
 
 public class Jugador extends Futbolista{
     public short golesMarcados;

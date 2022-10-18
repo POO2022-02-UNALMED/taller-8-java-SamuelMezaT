@@ -1,4 +1,4 @@
-package futbol;
+package Futbol;
 
 public class Portero extends Futbolista{
     public short golesRecibidos;
