@@ -1,8 +1,9 @@
-package Futbol;
+package futbol;
 
 // import org.junit.platform.console.shadow.picocli.CommandLine.Option;
 
 // import java.util.;
+
 
 public abstract class Futbolista implements Comparable<Object> {
     private String nombre;
